@@ -7,7 +7,7 @@
 
 ### Introduction
 
-For this project, you will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
+In this project, the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment will be solved. 
 
 ![Trained Agent][image1]
 
