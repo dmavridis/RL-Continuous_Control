@@ -34,7 +34,10 @@ The noise process is a `Ornstein-Uhlenbeck` one where the σ value has been chan
 
 
 ## Training
-The agent is trained and the purpose is to reach an average reqard over last 100 samples of +30 or more. The desired result is achieved after 254 episodes. The plot is included in the `ddpg.ipynb` file. 
+The agent is trained and the purpose is to reach an average reqard over last 100 samples of +30 or more. The desired result is achieved after 254 episodes, as shown in the plot. 
+
+[<img src="scores.png">]()
+
 
 The final result are saved in the `checkpoints` folder.
 
